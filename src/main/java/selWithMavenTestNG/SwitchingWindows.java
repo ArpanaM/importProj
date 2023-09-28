@@ -46,6 +46,7 @@ public class SwitchingWindows {
 		else
 		{
 			System.out.println("Failed...");
+			System.out.println("Failed...");
 		}
 		driver.quit();
 		
